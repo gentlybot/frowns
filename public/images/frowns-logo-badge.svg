@@ -1,0 +1,14 @@
+<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="180" rx="24" fill="#F4F9FF"/>
+  <rect x="16" y="16" width="288" height="148" rx="18" stroke="#B6CAEF" stroke-width="2"/>
+  <ellipse cx="160" cy="92" rx="62" ry="38" fill="#E6F0FF" stroke="#8FB0E8" stroke-width="2"/>
+  <path d="M117 92c12-24 39-35 63-22 16 9 28 27 29 45" stroke="#2463EB" stroke-width="11" stroke-linecap="round"/>
+  <path d="M130 82c0 10 7 18 16 18s16-8 16-18M158 82c0 10 7 18 16 18s16-8 16-18" stroke="#1549BF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M157 111h10" stroke="#1549BF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M181 111h11" stroke="#1549BF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M124 36c-16 15-13 52 36 52 49 0 52-37 36-52" stroke="#5FA9FD" stroke-width="8" stroke-linecap="round"/>
+  <path d="M134 142H188V148H134z" fill="#1F4FD2"/>
+  <text x="112" y="150" fill="#0F2A66" font-size="24" font-family="Avenir Next, Inter, Arial" font-weight="700">
+    FROWNS
+  </text>
+</svg>

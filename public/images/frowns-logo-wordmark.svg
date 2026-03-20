@@ -1,0 +1,23 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wordGradient" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="tagGradient" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2463EB"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="108" height="112" rx="20" fill="url(#tagGradient)" opacity="0.12"/>
+  <path d="M23 75C40 45 76 31 107 48 126 58 139 76 141 97" stroke="url(#tagGradient)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M36 61c-6.5 4-11 12-11 21 0 14 11.4 25.4 25.4 25.4S76 96 76 82c0-13-11.4-25.4-25.4-25.4" stroke="#1D4ED8" stroke-width="7.8" stroke-linecap="round"/>
+  <path d="M76 61c-6.5 4-11 12-11 21 0 14 11.4 25.4 25.4 25.4S116 96 116 82c0-13-11.4-25.4-25.4-25.4" stroke="#1D4ED8" stroke-width="7.8" stroke-linecap="round"/>
+  <path d="M68 92H88" stroke="#1D4ED8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M97 92h15" stroke="#1D4ED8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M124 20h254v76H124z" fill="none"/>
+  <path d="M136 56h16l10-22h22v58h-14V55c0-5 1.5-13-4.8-13H153c-6.2 0-4.8 8-4.8 13v37h-12V56Zm66 0h14.5c7 0 12.5-1 17.4-6.4 10.2-11 2.9-34.6-13.4-34.6h-18.5v58h12.2V56h4.9l13 21h13.7l-13.4-22.2c7.7-1.8 12.9-8.6 12.9-17C221 28.6 210.4 20 194.6 20h-19v58h10.4V56Z" fill="#0F2A66"/>
+  <text x="135" y="85" fill="url(#wordGradient)" font-size="42" font-family="Avenir Next, Inter, Arial" font-weight="700" letter-spacing="-0.03em">
+    Frowns
+  </text>
+</svg>
